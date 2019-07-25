@@ -1,6 +1,8 @@
 p {
-    color: green;
+    background: lightgreen;
     font-weight: bold;
     text-align: center;
-    margin: 5px;
+    margin:10px;
+    padding: 5px;
+    border: solid 1px green;
 }
